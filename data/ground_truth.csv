@@ -1,0 +1,8 @@
+scenario,type,user_id,timestamp,detail
+B,gradual_drift_day,u09,2026-09-01 01:24:00,Login hour drifted to 1.0h past midnight; file volume x1.4
+B,gradual_drift_day,u09,2026-09-02 02:32:00,Login hour drifted to 2.2h past midnight; file volume x1.9
+A,impossible_travel_login,u03,2026-09-02 13:10:00,"Login from Bucharest, Romania on unrecognized device unknown-device-9663"
+A,mass_download_burst,u03,2026-09-02 13:10:00,48 downloads (incl. sensitive files) within 25 minutes
+A,exfil_transfer,u03,2026-09-02 13:40:00,812 MB transfer to previously-unseen external domain
+B,gradual_drift_day,u09,2026-09-03 03:50:00,Login hour drifted to 3.0h past midnight; file volume x2.6
+B,gradual_drift_day,u09,2026-09-04 03:36:00,Login hour drifted to 3.6h past midnight; file volume x3.4

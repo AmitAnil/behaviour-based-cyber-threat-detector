@@ -1,0 +1,16 @@
+user_id,name,department,home_city,home_country,devices
+u01,Aarav,Finance,Mumbai,India,u01-laptop;u01-mobile
+u02,Priya,Engineering,Delhi,India,u02-laptop
+u03,Rohit,HR,Bangalore,India,u03-laptop
+u04,Sneha,Sales,Hyderabad,India,u04-laptop
+u05,Karan,IT,Chennai,India,u05-laptop;u05-mobile
+u06,Ananya,Finance,Pune,India,u06-laptop
+u07,Vikram,Engineering,Kolkata,India,u07-laptop
+u08,Divya,HR,Ahmedabad,India,u08-laptop
+u09,Arjun,Sales,Mumbai,India,u09-laptop;u09-mobile
+u10,Neha,IT,Delhi,India,u10-laptop
+u11,Rahul,Finance,Bangalore,India,u11-laptop
+u12,Pooja,Engineering,Hyderabad,India,u12-laptop
+u13,Sanjay,HR,Chennai,India,u13-laptop;u13-mobile
+u14,Meera,Sales,Pune,India,u14-laptop
+u15,Ishaan,IT,Kolkata,India,u15-laptop
